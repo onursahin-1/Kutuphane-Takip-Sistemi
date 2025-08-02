@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747940149 source:c:\users\user\desktop\kütüphane takip sistemi\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
